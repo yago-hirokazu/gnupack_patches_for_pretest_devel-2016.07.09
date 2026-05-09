@@ -2,19 +2,19 @@
 
 GitHub branch: [https://github.com/yago-hirokazu/gnupack_patches](https://github.com/yago-hirokazu/gnupack_patches)
 
-Patches for gnupack-pretest_devel-2015.11.15.  
+Patches for gnupack-pretest_devel-2016.07.09.  
 gnupack allows Windows OS users to use cygwin and emacs in a ready-to-use manner.
 
 
 ## 使い方
 
-* gnupack-pretest_devel-2015.11.15.exeを下記からダウンロード  
+* gnupack-pretest_devel-2016.07.09.exeを下記からダウンロード  
   [gnupack - ダウンロードファイル一覧](https://ftp.iij.ad.jp/pub/osdn.jp/gnupack/64040/)  
-  リンク先のウェブページで「gnupack pretest」を探して「2015.11.15」をクリック  
+  リンク先のウェブページで「gnupack pretest」を探して「2016.07.09」をクリック  
 
-* gnupack-pretest_devel-2015.11.15.exeをダブルクリックすると展開先のディレクトリをきかれるのでgnupackを運用したい任意のディレクトリを入力
+* gnupack-pretest_devel-2016.07.09.exeをダブルクリックすると展開先のディレクトリをきかれるのでgnupackを運用したい任意のディレクトリを入力
 
-* gnupack-pretest_devel-2015.11.15を展開した同じディレクトリにこのgnupack_patches/を配置。  
+* gnupack-pretest_devel-2016.07.09を展開した同じディレクトリにこのgnupack_patches/を配置。  
   ディレクトリの名前を「gnupack_patches」を「gnupkack」に変更。  
   下記は(C:)ドライブ直下に配置した場合の例
 
@@ -23,13 +23,13 @@ gnupack allows Windows OS users to use cygwin and emacs in a ready-to-use manner
         | 
         |-- gnupack/
         |
-        |-- gnupack-pretest_devel-2015.11.15/
+        |-- gnupack-pretest_devel-2016.07.09/
         |
   ```
 
 * C:\gnupack\fetch_gnupack.batを実行。  
   ダブルクリック or cmd.exeからの実行どちらでも可。  
-  gnupack-pretest_devel-2015.11.15/から必要なファイルをgnupack/に取り込んでくれる。
+  gnupack-pretest_devel-2016.07.09/から必要なファイルをgnupack/に取り込んでくれる。
 
 * cygwinの取り込みは下記どちらかの方法で対応。
   1. C:\gnupack\fetch_gnupack.batの下記のコメントアウトを解除してフェッチを実行
